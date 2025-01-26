@@ -1,5 +1,5 @@
 {
-    "name": "nanopkg/laravel-bangla-text-converter",
+    "name": "rishadblack/laravel-bangla-text-converter",
     "description": "This is Laravel's Bengali text converter package. Through this package, you can easily convert text from Unicode to Bijoy in your Laravel application and convert Bijoy to Unicode.",
     "keywords": [
         "nanopkg",
